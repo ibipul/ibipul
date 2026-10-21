@@ -1,13 +1,14 @@
-# Hi, I'm Bipul 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=260&color=0:610722,100:7f0353&text=Hi,%20I'm%20Bipul&fontColor=ffffff&fontSize=56&fontAlignY=32&desc=Applied%20AI%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Computer%20Vision&descAlignY=48&descSize=18" width="100%" alt="Hi, I'm Bipul: Applied AI, Machine Learning, Computer Vision"/>
+</p>
+
+<div align="center">
 
 I break things · India · [LinkedIn](https://www.linkedin.com/in/bipulislam) · [ibipul.github.io](https://ibipul.github.io)
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8)
+
+</div>
 
 ## Recent projects
 
