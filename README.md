@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=260&color=0:610722,100:7f0353&text=Hi,%20I'm%20Bipul&fontColor=ffffff&fontSize=56&fontAlignY=32&desc=Applied%20AI%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Computer%20Vision&descAlignY=48&descSize=18" width="100%" alt="Hi, I'm Bipul: Applied AI, Machine Learning, Computer Vision"/>
+  <img src="banner.svg" width="100%" alt="Hi, I'm Bipul: Applied AI, Machine Learning, Computer Vision"/>
 </p>
 
 <div align="center">
