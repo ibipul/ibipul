@@ -1,6 +1,6 @@
 # Hi, I'm Bipul 👋
 
-I break things · Massachusetts · [LinkedIn](https://www.linkedin.com/in/bipulislam) · [ibipul.github.io](https://ibipul.github.io)
+I break things · India · [LinkedIn](https://www.linkedin.com/in/bipulislam) · [ibipul.github.io](https://ibipul.github.io)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
