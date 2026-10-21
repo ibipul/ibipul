@@ -5,15 +5,9 @@ I break things · India · [LinkedIn](https://www.linkedin.com/in/bipulislam) ·
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
-![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?logo=google&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![LLVM](https://img.shields.io/badge/LLVM-262D3A?logo=llvm&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?logo=d3&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8)
 
 ## Recent projects
 
