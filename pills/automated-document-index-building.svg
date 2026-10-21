@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="299" height="42" viewBox="0 0 299 42">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7f0353"/><stop offset="1" stop-color="#a0246f"/></linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".18"/><stop offset=".55" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <filter id="s" x="-10%" y="-20%" width="120%" height="160%"><feDropShadow dx="0" dy="1.5" stdDeviation="1.2" flood-color="#2a0a18" flood-opacity=".28"/></filter>
+  </defs>
+  <g transform="translate(2 1.5)">
+    <rect width="295" height="36" rx="18.0" fill="url(#g)" filter="url(#s)"/>
+    <rect width="295" height="36" rx="18.0" fill="url(#sheen)"/>
+    <rect x=".5" y=".5" width="294" height="35" rx="17.5" fill="none" stroke="#fff" stroke-opacity=".22"/>
+    <text x="147.5" y="18.0" dy=".35em" text-anchor="middle" fill="#fff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing=".2">automated-document-index-building</text>
+  </g>
+</svg>
