@@ -21,7 +21,6 @@ I break things · India · [LinkedIn](https://www.linkedin.com/in/bipulislam) ·
 
 <div align="center">
 
-![AI & ML](https://img.shields.io/badge/AI%20%26%20ML-7f0353?style=flat-square) ![Compilers & logic](https://img.shields.io/badge/Compilers%20%26%20logic-0f766e?style=flat-square) ![Systems, data & web](https://img.shields.io/badge/Systems%2C%20data%20%26%20web-475569?style=flat-square)
 
 [![latex2html](https://img.shields.io/badge/latex2html-0f766e?style=for-the-badge "A LaTeX-to-HTML translator built with Flex and Bison")](https://github.com/ibipul/latex2html)
 [![statistical_viz](https://img.shields.io/badge/statistical__viz-7f0353?style=flat "PCA-based visualization of large multivariate data sets, in R")](https://github.com/ibipul/statistical_viz)
