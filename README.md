@@ -28,9 +28,30 @@ Each one runs in your browser; click a card to open it.
 
 <table>
 <tr>
-  <td width="33%" valign="top" align="center"><a href="https://ibipul.github.io/latex2html/"><img src="cards/latex2html.svg" width="100%" alt="LaTeX to HTML Converter: live demo"></a><br><sub><a href="https://github.com/ibipul/latex2html">Source on GitHub</a></sub></td>
-  <td width="33%" valign="top" align="center"><a href="https://ibipul.github.io/InteractiveGraphVizFramework/"><img src="cards/InteractiveGraphVizFramework.svg" width="100%" alt="Interactive Ricci Flow: live demo"></a><br><sub><a href="https://github.com/ibipul/InteractiveGraphVizFramework">Source on GitHub</a></sub></td>
-  <td width="33%" valign="top" align="center"><a href="https://ibipul.github.io/segmentation-2Dsnakes-wt-interactive-control/"><img src="cards/segmentation-2Dsnakes-wt-interactive-control.svg" width="100%" alt="Level-set Segmentation: live demo"></a><br><sub><a href="https://github.com/ibipul/segmentation-2Dsnakes-wt-interactive-control">Source on GitHub</a></sub></td>
+  <td width="33%" valign="top">
+    <a href="https://ibipul.github.io/latex2html/"><img src="cards/img/latex2html.jpg" width="100%" alt="The LaTeX to HTML converter: LaTeX source on the left, the rendered page on the right"></a>
+    <br><img src="cards/live.svg" height="20" alt="Live">
+    <br><b>LaTeX to HTML Converter</b>
+    <br><sub>Paste or upload LaTeX, get a clean HTML page. Runs in your browser.</sub>
+    <br><a href="https://ibipul.github.io/latex2html/"><img src="cards/open.svg" height="26" alt="Open the app"></a>
+    <br><sub><a href="https://github.com/ibipul/latex2html">Source on GitHub</a></sub>
+  </td>
+  <td width="33%" valign="top">
+    <a href="https://ibipul.github.io/InteractiveGraphVizFramework/"><img src="cards/img/ricci-flow.jpg" width="100%" alt="Interactive Ricci Flow: a college football network after Ricci flow, with its communities pulled apart and colour-coded"></a>
+    <br><img src="cards/live.svg" height="20" alt="Live">
+    <br><b>Interactive Ricci Flow</b>
+    <br><sub>Watch network communities separate under Ricci flow, and steer it. Runs in your browser.</sub>
+    <br><a href="https://ibipul.github.io/InteractiveGraphVizFramework/"><img src="cards/open.svg" height="26" alt="Open the app"></a>
+    <br><sub><a href="https://github.com/ibipul/InteractiveGraphVizFramework">Source on GitHub</a></sub>
+  </td>
+  <td width="33%" valign="top">
+    <a href="https://ibipul.github.io/segmentation-2Dsnakes-wt-interactive-control/"><img src="cards/img/snakes.jpg" width="100%" alt="Level-set segmentation: a red contour that has settled around two bright objects"></a>
+    <br><img src="cards/live.svg" height="20" alt="Live">
+    <br><b>Level-set Segmentation</b>
+    <br><sub>Draw a contour, watch it snap to the object, and steer it. Python in WebAssembly, runs in your browser.</sub>
+    <br><a href="https://ibipul.github.io/segmentation-2Dsnakes-wt-interactive-control/"><img src="cards/open.svg" height="26" alt="Open the app"></a>
+    <br><sub><a href="https://github.com/ibipul/segmentation-2Dsnakes-wt-interactive-control">Source on GitHub</a></sub>
+  </td>
 </tr>
 </table>
 
