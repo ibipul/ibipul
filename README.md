@@ -22,17 +22,24 @@ I break things · India
 | [segmentation-2Dsnakes-wt-interactive-control](https://github.com/ibipul/segmentation-2Dsnakes-wt-interactive-control) | Variational 2D image segmentation (snakes) by level set evolution: Chan-Vese, Yezzi and Bhattacharya methods plus interactive feedback control, with a browser view of the contour evolving live. | Python, NumPy, SciPy, FastAPI |
 | [latex2html](https://github.com/ibipul/latex2html) | Converts LaTeX documents to clean, standalone HTML in the browser, with live preview and KaTeX or MathML math. Originally a Flex and Bison parser. | Flex, Bison, JavaScript, KaTeX |
 
-## Public Repos
+### Live demos
+
+Each one runs in your browser; click a card to open it.
+
+<table>
+<tr>
+  <td width="33%" valign="top"><a href="https://ibipul.github.io/InteractiveGraphVizFramework/"><img src="cards/InteractiveGraphVizFramework.svg" width="100%" alt="Interactive Ricci Flow: live demo"></a></td>
+  <td width="33%" valign="top"><a href="https://ibipul.github.io/segmentation-2Dsnakes-wt-interactive-control/"><img src="cards/segmentation-2Dsnakes-wt-interactive-control.svg" width="100%" alt="Level Set Segmentation: live demo"></a></td>
+  <td width="33%" valign="top"><a href="https://ibipul.github.io/latex2html/"><img src="cards/latex2html.svg" width="100%" alt="LaTeX to HTML: live demo"></a></td>
+</tr>
+</table>
+
+## Other public repos
 
 <div align="center">
 
-
-<a href="https://github.com/ibipul/agentic_logistic_handler"><img src="pills/agentic_logistic_handler.svg" alt="agentic_logistic_handler" title="An agent that frames optimization problems from plain language and solves them exactly"></a>
-<a href="https://github.com/ibipul/lang_chain_playground"><img src="pills/lang_chain_playground.svg" alt="lang_chain_playground" title="A LangServe role-play assistant (RAG + OpenAI) with a chat playground"></a>
-<a href="https://github.com/ibipul/latex2html"><img src="pills/latex2html.svg" alt="latex2html" title="A LaTeX-to-HTML translator built with Flex and Bison"></a>
 <a href="https://github.com/ibipul/statistical_viz"><img src="pills/statistical_viz.svg" alt="statistical_viz" title="PCA-based visualization of large multivariate data sets, in R"></a>
 <a href="https://github.com/ibipul/UnixSockets"><img src="pills/UnixSockets.svg" alt="UnixSockets" title="A client-server chat in C over Unix sockets"></a>
-<a href="https://github.com/ibipul/segmentation-2Dsnakes-wt-interactive-control"><img src="pills/segmentation-2Dsnakes-wt-interactive-control.svg" alt="segmentation-2Dsnakes-wt-interactive-control" title="Variational image segmentation (snakes), with interactive feedback control"></a>
 <a href="https://github.com/ibipul/coloring_SAT"><img src="pills/coloring_SAT.svg" alt="coloring_SAT" title="Solving K-coloring with a SAT solver"></a>
 <a href="https://github.com/ibipul/map-reduce-projects"><img src="pills/map-reduce-projects.svg" alt="map-reduce-projects" title="Word count, set difference and SVD on large images with MapReduce"></a>
 <a href="https://github.com/ibipul/random_google_chrome_extensions"><img src="pills/random_google_chrome_extensions.svg" alt="random_google_chrome_extensions" title="Chrome extensions and YouTube analysis built with Gemini"></a>
@@ -40,7 +47,6 @@ I break things · India
 <a href="https://github.com/ibipul/WebsitePageLoadAnalysis"><img src="pills/WebsitePageLoadAnalysis.svg" alt="WebsitePageLoadAnalysis" title="A Selenium test bed measuring page-load time with and without ad blockers"></a>
 <a href="https://github.com/ibipul/automated-document-index-building"><img src="pills/automated-document-index-building.svg" alt="automated-document-index-building" title="Automatic document indexing with TF-IDF, LDA and word embeddings"></a>
 <a href="https://github.com/ibipul/openGLproj"><img src="pills/openGLproj.svg" alt="openGLproj" title="3D cube models in OpenGL"></a>
-<a href="https://github.com/ibipul/InteractiveGraphVizFramework"><img src="pills/InteractiveGraphVizFramework.svg" alt="InteractiveGraphVizFramework" title="A D3.js front end on Flask for editing graphs live"></a>
 
 <sub>Hover over a project for a one-line summary; click to open it.</sub>
 
