@@ -12,18 +12,23 @@ I break things · India
 
 </div>
 
-## Recent projects
+## Highlighted Projects
 
 | Project | What it does | Built with |
 |---|---|---|
 | [agentic_logistic_handler](https://github.com/ibipul/agentic_logistic_handler) | Describe demand, supply and other constraints in plain language; an agent frames the right optimization problem and solves it exactly with open-source tools. | Google ADK, Gemini, PuLP + CBC, FastAPI |
 | [lang_chain_playground](https://github.com/ibipul/lang_chain_playground) | A LangServe role-play assistant (RAG + OpenAI) with a chat playground, runnable with one command. | LangChain, LangServe, FAISS, OpenAI |
+| [InteractiveGraphVizFramework](https://github.com/ibipul/InteractiveGraphVizFramework) | Watch and steer Ricci-flow community detection on a network: load a dataset or your own edge list, run Ollivier- or Forman-Ricci flow, and see communities separate in 2D or 3D, scored against ground truth. | Python, FastAPI, NetworkX, SciPy, D3.js, Pyodide |
+| [segmentation-2Dsnakes-wt-interactive-control](https://github.com/ibipul/segmentation-2Dsnakes-wt-interactive-control) | Variational 2D image segmentation (snakes) by level set evolution: Chan-Vese, Yezzi and Bhattacharya methods plus interactive feedback control, with a browser view of the contour evolving live. | Python, NumPy, SciPy, FastAPI |
+| [latex2html](https://github.com/ibipul/latex2html) | Converts LaTeX documents to clean, standalone HTML in the browser, with live preview and KaTeX or MathML math. Originally a Flex and Bison parser. | Flex, Bison, JavaScript, KaTeX |
 
-## Earlier work
+## Public Repos
 
 <div align="center">
 
 
+<a href="https://github.com/ibipul/agentic_logistic_handler"><img src="pills/agentic_logistic_handler.svg" alt="agentic_logistic_handler" title="An agent that frames optimization problems from plain language and solves them exactly"></a>
+<a href="https://github.com/ibipul/lang_chain_playground"><img src="pills/lang_chain_playground.svg" alt="lang_chain_playground" title="A LangServe role-play assistant (RAG + OpenAI) with a chat playground"></a>
 <a href="https://github.com/ibipul/latex2html"><img src="pills/latex2html.svg" alt="latex2html" title="A LaTeX-to-HTML translator built with Flex and Bison"></a>
 <a href="https://github.com/ibipul/statistical_viz"><img src="pills/statistical_viz.svg" alt="statistical_viz" title="PCA-based visualization of large multivariate data sets, in R"></a>
 <a href="https://github.com/ibipul/UnixSockets"><img src="pills/UnixSockets.svg" alt="UnixSockets" title="A client-server chat in C over Unix sockets"></a>
