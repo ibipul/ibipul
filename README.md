@@ -24,9 +24,9 @@ I break things · India
 Each one runs in your browser; click a card to open it.
 
 <p align="center">
-  <a href="https://ibipul.github.io/latex2html/"><img src="cards/latex2html.png" width="32%" alt="LaTeX to HTML Converter: live demo"></a>
-  <a href="https://ibipul.github.io/InteractiveGraphVizFramework/"><img src="cards/ricci-flow.png" width="32%" alt="Interactive Ricci Flow: live demo"></a>
-  <a href="https://ibipul.github.io/segmentation-2Dsnakes-wt-interactive-control/"><img src="cards/snakes.png" width="32%" alt="Level-set Segmentation: live demo"></a>
+  <a href="https://ibipul.github.io/latex2html/"><img src="cards/latex2html-live.png" width="32%" alt="LaTeX to HTML Converter: live demo"></a>
+  <a href="https://ibipul.github.io/InteractiveGraphVizFramework/"><img src="cards/ricci-flow-live.png" width="32%" alt="Interactive Ricci Flow: live demo"></a>
+  <a href="https://ibipul.github.io/segmentation-2Dsnakes-wt-interactive-control/"><img src="cards/snakes-live.png" width="32%" alt="Level-set Segmentation: live demo"></a>
 </p>
 
 <p align="center"><sub>Source on GitHub: <a href="https://github.com/ibipul/latex2html">LaTeX to HTML Converter</a> · <a href="https://github.com/ibipul/InteractiveGraphVizFramework">Interactive Ricci Flow</a> · <a href="https://github.com/ibipul/segmentation-2Dsnakes-wt-interactive-control">Level-set Segmentation</a></sub></p>
