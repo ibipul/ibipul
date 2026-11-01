@@ -12,7 +12,7 @@ I break things · India
 
 </div>
 
-## Highlighted Projects
+## Gen AI Projects
 
 | Project | What it does | Built with |
 |---|---|---|
@@ -28,9 +28,9 @@ Each one runs in your browser; click a card to open it.
 
 <table>
 <tr>
-  <td width="33%" valign="top"><a href="https://ibipul.github.io/InteractiveGraphVizFramework/"><img src="cards/InteractiveGraphVizFramework.svg" width="100%" alt="Interactive Ricci Flow: live demo"></a></td>
-  <td width="33%" valign="top"><a href="https://ibipul.github.io/segmentation-2Dsnakes-wt-interactive-control/"><img src="cards/segmentation-2Dsnakes-wt-interactive-control.svg" width="100%" alt="Level Set Segmentation: live demo"></a></td>
-  <td width="33%" valign="top"><a href="https://ibipul.github.io/latex2html/"><img src="cards/latex2html.svg" width="100%" alt="LaTeX to HTML: live demo"></a></td>
+  <td width="33%" valign="top" align="center"><a href="https://ibipul.github.io/latex2html/"><img src="cards/latex2html.svg" width="100%" alt="LaTeX to HTML Converter: live demo"></a><br><sub><a href="https://github.com/ibipul/latex2html">Source on GitHub</a></sub></td>
+  <td width="33%" valign="top" align="center"><a href="https://ibipul.github.io/InteractiveGraphVizFramework/"><img src="cards/InteractiveGraphVizFramework.svg" width="100%" alt="Interactive Ricci Flow: live demo"></a><br><sub><a href="https://github.com/ibipul/InteractiveGraphVizFramework">Source on GitHub</a></sub></td>
+  <td width="33%" valign="top" align="center"><a href="https://ibipul.github.io/segmentation-2Dsnakes-wt-interactive-control/"><img src="cards/segmentation-2Dsnakes-wt-interactive-control.svg" width="100%" alt="Level-set Segmentation: live demo"></a><br><sub><a href="https://github.com/ibipul/segmentation-2Dsnakes-wt-interactive-control">Source on GitHub</a></sub></td>
 </tr>
 </table>
 
