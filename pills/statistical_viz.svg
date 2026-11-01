@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="112" height="34" viewBox="0 0 112 34">
+<svg xmlns="http://www.w3.org/2000/svg" width="155" height="42" viewBox="0 0 155 42">
   <defs>
     <filter id="s" x="-10%" y="-20%" width="120%" height="160%"><feDropShadow dx="0" dy="1.5" stdDeviation="1.2" flood-color="#a0246f" flood-opacity=".18"/></filter>
   </defs>
   <g transform="translate(2 1.5)">
-    <rect x="1" y="1" width="106" height="26" rx="13.0" fill="#fff" stroke="#a0246f" stroke-width="2" filter="url(#s)"/>
-    <text x="54.0" y="14.0" dy=".35em" text-anchor="middle" fill="#a0246f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" letter-spacing=".2">statistical_viz</text>
+    <rect x="1" y="1" width="149" height="34" rx="17.0" fill="#fff" stroke="#a0246f" stroke-width="2" filter="url(#s)"/>
+    <text x="75.5" y="18.0" dy=".35em" text-anchor="middle" fill="#a0246f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing=".2">statistical_viz</text>
   </g>
 </svg>
